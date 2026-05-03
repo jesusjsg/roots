@@ -1,0 +1,7 @@
+.ruff_cache/
+.env
+.venv
+__pycache__/
+*.py[codz]
+*$py.class
+.worktrees
